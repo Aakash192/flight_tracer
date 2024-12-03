@@ -1,0 +1,23 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.Python
+.env
+.venv
+venv/
+env/
+
+# SQLite
+*.db
+
+# VSCode
+.vscode/
+
+# Other IDEs
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
